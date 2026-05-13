@@ -15,6 +15,12 @@ Built for Unity 2021 LTS+.
 
 ---
 
+## Demo
+
+![Demo Image](Media/Gameplay-Settings.png)
+
+---
+
 # Features
 
 ## Modular Architecture
@@ -39,6 +45,8 @@ Supported custom types:
 The system uses:
 - **Default Profile** → stores default settings
 - **Active Profile** → runtime session values
+
+<img src="Media/Settings-Profile.png" width="450"/>
 
 This allows instant restoration of defaults and easy runtime editing.
 
@@ -65,6 +73,8 @@ Includes:
 - Runtime rebinding
 - Key detection
 - Default restoration
+
+![Keybind Demo Example](Media/Keybind-Settings.png)
 
 ---
 
@@ -255,4 +265,4 @@ This project is licensed under the MIT License.
 
 # Author
 
-Developed by Belal Marwan using :contentReference[oaicite:0]{index=0}.
+Developed by Belal Saad.
