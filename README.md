@@ -46,7 +46,7 @@ The system uses:
 - **Default Profile** → stores default settings
 - **Active Profile** → runtime session values
 
-<img src="Media/Settings-Profile.png" width="450"/>
+<img src="Media/Settings-Profile.png" alt="Default Settings Profile Example" width="450"/>
 
 This allows instant restoration of defaults and easy runtime editing.
 
